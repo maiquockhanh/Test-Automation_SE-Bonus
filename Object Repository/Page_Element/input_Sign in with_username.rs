@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Sign in with_username</name>
    <tag></tag>
-   <elementGuidId>ec5a3c30-01fb-428a-9b2b-fee17165fe0e</elementGuidId>
+   <elementGuidId>8bd0ebf2-02d0-41e5-9f0d-fd74599fc31b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -70,7 +70,7 @@
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>m</value>
+      <value>d</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>

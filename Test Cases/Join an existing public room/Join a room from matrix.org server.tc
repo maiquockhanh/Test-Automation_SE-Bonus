@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Join a room from matrix.org server</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7df1eb0-d6c2-49da-8899-2c8818f31653</testCaseGuid>
+</TestCaseEntity>

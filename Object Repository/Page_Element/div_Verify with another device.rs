@@ -3,7 +3,7 @@
    <description></description>
    <name>div_Verify with another device</name>
    <tag></tag>
-   <elementGuidId>42baec38-26ba-43fc-ba2d-ad7ead123af2</elementGuidId>
+   <elementGuidId>3b1e9196-2720-4280-b016-dbc44e4ff152</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

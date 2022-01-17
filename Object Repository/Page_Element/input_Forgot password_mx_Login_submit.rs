@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Forgot password_mx_Login_submit</name>
    <tag></tag>
-   <elementGuidId>12c36d89-f8fe-4c71-9818-f4c8a87f5016</elementGuidId>
+   <elementGuidId>4f6e6f24-8888-460b-a56b-dded3c9c4c1b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Username_password</name>
    <tag></tag>
-   <elementGuidId>c8de1619-ac09-42a1-abf2-ee39a3212d0b</elementGuidId>
+   <elementGuidId>df33ed4c-cd1e-4fe6-8234-bd6ec01d105a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -70,7 +70,7 @@
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>m</value>
+      <value>P</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
