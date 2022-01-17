@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email_password</name>
+   <name>div_Verify other device_mx_AccessibleButton_7edffc</name>
    <tag></tag>
-   <elementGuidId>1fcb1b38-f330-41b5-9d5c-c17d21028def</elementGuidId>
+   <elementGuidId>da2ce60f-6209-4ca5-946b-1245aab49f13</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#mx_Field_3</value>
+         <value>div.mx_AccessibleButton.mx_Dialog_cancelButton</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='mx_Field_3']</value>
+         <value>//div[@id='mx_Dialog_Container']/div/div/div[3]/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,90 +21,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
+      <value>div</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>aria-label</name>
       <type>Main</type>
-      <value>password</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>password</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>password</value>
+      <value>Close dialog</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>label</name>
+      <name>role</name>
       <type>Main</type>
-      <value>Password</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Password</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>mx_Field_3</value>
+      <value>button</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>tabindex</name>
       <type>Main</type>
-      <value>Q</value>
+      <value>0</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>focus-visible</value>
+      <value>mx_AccessibleButton mx_Dialog_cancelButton</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mx_Field_3&quot;)</value>
+      <value>id(&quot;mx_Dialog_Container&quot;)/div[@class=&quot;mx_Dialog_wrapper&quot;]/div[@class=&quot;mx_Dialog&quot;]/div[@class=&quot;mx_InfoDialog mx_Dialog_fixedWidth&quot;]/div[@class=&quot;mx_Dialog_header mx_Dialog_headerWithCancel&quot;]/div[@class=&quot;mx_AccessibleButton mx_Dialog_cancelButton&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//input[@id='mx_Field_3']</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='matrixchat']/div/div/div[2]/div[2]/div[2]/form/div[3]/input</value>
+      <value>//div[@id='mx_Dialog_Container']/div/div/div[3]/div/div</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/input</value>
+      <value>//div[12]/div/div/div[3]/div/div</value>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Verify other device_mx_AccessibleButton_7edffc</name>
+   <name>div_thatvillagerguy_mx_AccessibleButton mx__c289c0</name>
    <tag></tag>
-   <elementGuidId>6050dfe8-210f-485e-b2ed-c1687d1dfe53</elementGuidId>
+   <elementGuidId>04731af0-4aa5-403f-aa60-276eea93f37d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.mx_AccessibleButton.mx_Dialog_cancelButton</value>
+         <value>div.mx_AccessibleButton.mx_MessageComposer_button.mx_MessageComposer_emoji</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='mx_Dialog_Container']/div/div/div[3]/div/div</value>
+         <value>//section[@id='matrixchat']/div/div[2]/div[3]/main/div[2]/div/div[4]/div/div/div[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>Close dialog</value>
+      <value>Add emoji</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,48 +49,55 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mx_AccessibleButton mx_Dialog_cancelButton</value>
+      <value>mx_AccessibleButton mx_MessageComposer_button mx_MessageComposer_emoji</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mx_Dialog_Container&quot;)/div[@class=&quot;mx_Dialog_wrapper&quot;]/div[@class=&quot;mx_Dialog&quot;]/div[@class=&quot;mx_InfoDialog mx_Dialog_fixedWidth&quot;]/div[@class=&quot;mx_Dialog_header mx_Dialog_headerWithCancel&quot;]/div[@class=&quot;mx_AccessibleButton mx_Dialog_cancelButton&quot;]</value>
+      <value>id(&quot;matrixchat&quot;)/div[@class=&quot;mx_MatrixChat_wrapper&quot;]/div[@class=&quot;mx_MatrixChat&quot;]/div[@class=&quot;mx_RoomView_wrapper&quot;]/main[@class=&quot;mx_RoomView&quot;]/div[@class=&quot;mx_MainSplit&quot;]/div[@class=&quot;mx_RoomView_body&quot;]/div[@class=&quot;mx_MessageComposer mx_GroupLayout&quot;]/div[@class=&quot;mx_MessageComposer_wrapper&quot;]/div[@class=&quot;mx_MessageComposer_row&quot;]/div[@class=&quot;mx_AccessibleButton mx_MessageComposer_button mx_MessageComposer_emoji&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mx_Dialog_Container']/div/div/div[3]/div/div</value>
+      <value>//section[@id='matrixchat']/div/div[2]/div[3]/main/div[2]/div/div[4]/div/div/div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='thatvillagerguy'])[1]/following::div[27]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='😀 Im using katalon to test'])[1]/following::div[34]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This room is public'])[1]/preceding::div[12]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This room is public'])[2]/preceding::div[15]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[13]/div/div/div[3]/div/div</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[12]/div/div/div[3]/div/div</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[11]/div/div/div[3]/div/div</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[9]/div/div/div[3]/div/div</value>
+      <value>//div[2]/div/div[4]/div/div/div[3]</value>
    </webElementXpaths>
 </WebElementEntity>

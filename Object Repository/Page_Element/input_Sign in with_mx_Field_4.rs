@@ -54,6 +54,13 @@
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>q</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>focus-visible</value>
@@ -64,13 +71,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mx_Field_4&quot;)</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>q</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
