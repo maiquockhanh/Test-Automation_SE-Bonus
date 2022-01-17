@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "D37A4F05557B15560312941AA5E16FEF",
+  "keywordClasses": [
+    {
+      "name": "wait.wait",
+      "keywordMethods": [
+        {
+          "name": "DelayTime",
+          "parameters": [
+            {
+              "name": "milliseconds",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "long",
+                "unresolvedClassName": "long",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

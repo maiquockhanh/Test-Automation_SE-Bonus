@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UC07 Invite someone by inputting an existing email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a97ea977-5443-4625-8224-a517961fe1b6</testCaseGuid>
+</TestCaseEntity>
