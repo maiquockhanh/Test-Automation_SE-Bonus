@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "FC7EC80AA0DC2014F230F4917DB7C062",
+  "keywordClasses": [
+    {
+      "name": "vu.wait",
+      "keywordMethods": [
+        {
+          "name": "DelayTime",
+          "parameters": [
+            {
+              "name": "milliseconds",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "long",
+                "unresolvedClassName": "long",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
