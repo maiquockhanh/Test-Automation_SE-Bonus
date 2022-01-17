@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "84AE3F806709A9DD193780C9FDFBDF28",
+  "keywordClasses": [
+    {
+      "name": "khanh.wait",
+      "keywordMethods": [
+        {
+          "name": "DelayTime",
+          "parameters": [
+            {
+              "name": "milliseconds",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "long",
+                "unresolvedClassName": "long",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
