@@ -3,15 +3,15 @@
    <description></description>
    <name>div_Verify with another device</name>
    <tag></tag>
-   <elementGuidId>20fc1e03-987e-4492-a43b-7d36fedd90fc</elementGuidId>
+   <elementGuidId>3b1e9196-2720-4280-b016-dbc44e4ff152</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.mx_AccessibleButton.mx_AccessibleButton_hasKind.mx_AccessibleButton_kind_primary</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//section[@id='matrixchat']/div/div/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mx_AccessibleButton.mx_AccessibleButton_hasKind.mx_AccessibleButton_kind_primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -77,7 +77,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify with Security Key'])[1]/preceding::div[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset all'])[1]/preceding::div[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

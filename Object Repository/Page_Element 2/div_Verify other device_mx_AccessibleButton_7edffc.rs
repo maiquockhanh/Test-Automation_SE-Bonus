@@ -3,15 +3,15 @@
    <description></description>
    <name>div_Verify other device_mx_AccessibleButton_7edffc</name>
    <tag></tag>
-   <elementGuidId>da2ce60f-6209-4ca5-946b-1245aab49f13</elementGuidId>
+   <elementGuidId>cc1bd083-3826-45bd-b7a7-2f24dc3a06a1</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.mx_AccessibleButton.mx_Dialog_cancelButton</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='mx_Dialog_Container']/div/div/div[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mx_AccessibleButton.mx_Dialog_cancelButton</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -70,6 +70,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[12]/div/div/div[3]/div/div</value>
+      <value>//div[11]/div/div/div[3]/div/div</value>
    </webElementXpaths>
 </WebElementEntity>

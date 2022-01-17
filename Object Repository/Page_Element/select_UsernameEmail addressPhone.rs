@@ -3,15 +3,15 @@
    <description></description>
    <name>select_UsernameEmail addressPhone</name>
    <tag></tag>
-   <elementGuidId>1aa83f68-3572-4862-bc05-b3e8aaf26fca</elementGuidId>
+   <elementGuidId>913f8b21-0e4c-4f5e-8381-2683df6e4562</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#mx_Field_1</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='mx_Field_1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mx_Field_1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

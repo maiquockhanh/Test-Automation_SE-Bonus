@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Sign In</name>
    <tag></tag>
-   <elementGuidId>0511ca9e-5898-407d-84a1-f3b3b87396cd</elementGuidId>
+   <elementGuidId>25b68d5c-90dd-401f-a90c-5a381f38903b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>a.mx_ButtonParent.mx_ButtonSignIn.mx_Button_iconSignIn</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//section[@id='matrixchat']/div/div/div[2]/div/div/div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mx_ButtonParent.mx_ButtonSignIn.mx_Button_iconSignIn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

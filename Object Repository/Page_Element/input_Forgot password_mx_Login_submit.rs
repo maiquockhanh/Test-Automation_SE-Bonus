@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Forgot password_mx_Login_submit</name>
    <tag></tag>
-   <elementGuidId>78c644de-9df2-49bf-b372-e4f3c62a5905</elementGuidId>
+   <elementGuidId>4f6e6f24-8888-460b-a56b-dded3c9c4c1b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>input.mx_Login_submit</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@value='Sign in']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.mx_Login_submit</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

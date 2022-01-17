@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create public room with a blank address</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5224fbbc-2b28-4add-9e7c-8b51e379556a</testCaseGuid>
+</TestCaseEntity>

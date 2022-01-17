@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Email_password</name>
    <tag></tag>
-   <elementGuidId>1fcb1b38-f330-41b5-9d5c-c17d21028def</elementGuidId>
+   <elementGuidId>fd992a3d-becd-4f86-9286-9aa51a921be3</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#mx_Field_3</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='mx_Field_3']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mx_Field_3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -70,7 +70,7 @@
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Q</value>
+      <value>P</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>

@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Sign in with_mx_Field_4</name>
    <tag></tag>
-   <elementGuidId>64b6d537-6945-4976-9cd1-7cd9e2085c67</elementGuidId>
+   <elementGuidId>065789e0-bcfd-425b-98cc-d699e1e1123b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#mx_Field_4</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='mx_Field_4']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mx_Field_4</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -54,13 +54,6 @@
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>q</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>focus-visible</value>
@@ -71,6 +64,13 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mx_Field_4&quot;)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>d</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
