@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UC07 Invite someone by inputting an non-existing user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15e0a21a-44d7-488d-a734-aac26f1ab619</testCaseGuid>
+</TestCaseEntity>
